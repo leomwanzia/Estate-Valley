@@ -1,5 +1,6 @@
 import React from "react";
 import Heading from "../../head/Heading";
+import PriceCard from "./PriceCard"
 
 const Price = () => {
     return (
