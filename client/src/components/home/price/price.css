@@ -1,0 +1,49 @@
+.price {
+    text-align: center;
+}
+
+.price .content .box {
+    width: 30%;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.price button {
+    margin-bottom: 20px;
+}
+
+.price .box:nth-child(1) .topbtn button,
+.price .box:nth-child(3) .topbtn button {
+    display: none;
+}
+
+.price ul {
+    margin-top: 40px;
+}
+
+.price ul li {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.price label {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.price h3 {
+    font-size: 22px;
+}
+
+.price h1 {
+    font-size: 60px;
+}
+
+.price span {
+    font-size: 30px;
+    font-weight: 600;
+}
+
