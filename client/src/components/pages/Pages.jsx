@@ -3,7 +3,7 @@ import Header from "../head/header/Header";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "../home/Home";
 import Footer from "../head/footer/Footer";
-
+import About from "../about/About"
 const Pages = () => {
     return (
         <>

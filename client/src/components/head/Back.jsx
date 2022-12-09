@@ -1,6 +1,7 @@
 import React from "react"
-
-const Back = ({ name, title, cover }) => {
+import images from "../../images/about.png";
+// import About from "../about/About";
+const Back = ({ name, title }) => {
   return (
     <>
       <div className='back'>
@@ -8,7 +9,7 @@ const Back = ({ name, title, cover }) => {
           <span>{name}</span>
           <h1>{title}</h1>
         </div>
-        <img src={cover} alt='' />
+        <img src={images} alt='' />
       </div>
     </>
   )
