@@ -47,3 +47,51 @@ button {
 button i {
   margin-right: 5px;
 }
+
+.heading {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+.heading h1{
+  font-weight: 600;
+  text-transform: capitalize;
+  font-size: 36px;
+}
+
+.heading p {
+  color: #72809d;
+}
+
+textarea ,input {
+  border: none;
+  outline: none;
+  background-color: none;
+}
+
+.background {
+  padding: 80px;
+  background-color: rgb(223, 223, 217);
+  position: relative;
+}
+
+label {
+  color: #2d3954;
+  font-size: 20px;
+}
+
+.grid5 {
+  grid-gap: 50px;
+  grid-template-columns: repeat(4, 1fr);
+  display: grid;
+}
+
+.mtop {
+  margin-top: 50px;
+}
+
+h4{
+  margin-top: 10px;
+  font-weight: 500;
+}

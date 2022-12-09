@@ -1,0 +1,14 @@
+.featured .box {
+    box-shadow: 0 0 20px 0 rgb(112 112 138 /18%);
+    cursor: pointer;
+    padding: 30px;
+    text-align: center;
+    border-radius: 6px;
+    background-color: beige;
+}
+
+.featured img {
+    margin: auto;
+    height: 120px;
+    width: 250px;
+}

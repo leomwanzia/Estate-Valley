@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import "./header.css"
 import { Link } from "react-router-dom";
 import { nav } from "../../data/Data";
+import images from "../../../images/logo.png"
 
 
 const Header = () =>{
@@ -11,7 +12,7 @@ const Header = () =>{
             <header>
                 <div className="container flex">
                         <div className="logo">
-                            <img src="./images/logo.png" alt="log" width="140 px" height="100px"/>
+                            <img src={images} alt="log" width="140 px" height="100px"/>
                         </div>
 
                         <div className="nav">

@@ -1,5 +1,5 @@
 .rent {
-    background-image: url("../../../../public/images/background.png");
+    background-image: url("../../../images/background.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -9,6 +9,16 @@
 
 .rent .container {
     padding-top: 15%;
+}
+
+.rent h1 {
+    color: white;
+    font-size: 60px;
+}
+
+.rent p{
+    color: white;
+    opacity: 0.9;
 }
 
 form {
@@ -27,8 +37,8 @@ form input {
 }
 
 form span {
-    font-size: 14px;
-    color: grey;
+    font-size: 17px;
+    color: black;
 
 }
 
