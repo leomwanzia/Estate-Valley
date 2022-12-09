@@ -106,15 +106,15 @@ export const list = [
 export const location = [
   {
     id: 1,
-    name: "New Orleans, Louisiana",
+    name: "Embakasi Nairobi, Fedha Estate",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-1.png",
+    cover: "../../location/logo192.png",
   },
   {
     id: 2,
-    name: "Jerrsy, United State",
+    name: "Dala, Kisumu",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
@@ -122,7 +122,7 @@ export const location = [
   },
   {
     id: 3,
-    name: "Liverpool, London",
+    name: "Kathonzweni, Makueni",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -130,7 +130,7 @@ export const location = [
   },
   {
     id: 4,
-    name: "NewYork, United States",
+    name: "Machakos, Kenya",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -138,7 +138,7 @@ export const location = [
   },
   {
     id: 5,
-    name: "Montreal, Canada",
+    name: "Mombasa, Kenya",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -146,7 +146,7 @@ export const location = [
   },
   {
     id: 6,
-    name: "California, USA",
+    name: "Meru, Kenya",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",

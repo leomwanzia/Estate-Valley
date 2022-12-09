@@ -1,3 +1,26 @@
-heading title{
-    font-size: xx-large;
+.recent .text {
+    padding: 30px;
+}
+
+.recent .category span {
+    display: inline-block;
+    font-size: 13px;
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+}
+
+.recent .category i{
+    font-size: 20px;
+    color: grey;
+
+}
+
+.recent .button {
+    border-top: 1px solid #efe8f3;
+    padding: 15px 32px;
+}
+
+.recent p {
+    color: grey;
 }

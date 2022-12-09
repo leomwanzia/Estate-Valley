@@ -2,6 +2,7 @@ import React from "react";
 import Featured from "./featured/Featured";
 import Recent from "./recent/Recent";
 import Rent from"./rent/Rent";
+import Location from "./location/Location"
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
             <Rent />
             <Featured />
             <Recent />
+            <Location />
         </>
     )
 }
