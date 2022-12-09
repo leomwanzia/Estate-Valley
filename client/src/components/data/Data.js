@@ -110,7 +110,6 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "../../location/logo192.png",
   },
   {
     id: 2,
@@ -118,7 +117,6 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-2.png",
   },
   {
     id: 3,
@@ -126,7 +124,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-3.png",
+    
   },
   {
     id: 4,
@@ -134,7 +132,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-4.png",
+    
   },
   {
     id: 5,
@@ -142,7 +140,6 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-5.png",
   },
   {
     id: 6,
@@ -150,50 +147,43 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "./images/location/city-6.png",
   },
 ]
 export const team = [
   {
-    list: "50",
-    cover: "../images/customer/team-1.jpg",
-    address: "Liverpool, Canada",
-    name: "Sargam S. Singh",
+    list: "32",
+    address: "Kiambu, Kenya",
+    name: "Joseph Mwangi",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
-    list: "70",
-    cover: "../images/customer/team-2.jpg",
-    address: "Montreal, Canada",
-    name: "Harijeet M. Siller",
+    list: "45",
+    address: "Nairobi,  Kenya",
+    name: "Jarius Otione",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "80",
-    cover: "../images/customer/team-3.jpg",
-    address: "Denever, USA",
-    name: "Anna K. Young",
+    address: "Kisumu, Kenya",
+    name: " Otieno Owatch",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
-    list: "51",
-    cover: "../images/customer/team-4.jpg",
-    address: "2272 Briarwood Drive",
-    name: "Michael P. Grimaldo",
+    list: "60",
+    address: "Mombasa, Kenya",
+    name: "Phillip Walibora",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
-    list: "42",
-    cover: "../images/customer/team-5.jpg",
-    address: "2272 Briarwood Drive",
-    name: "Michael P. Grimaldo",
+    list: "22",
+    address: "Meru, Kenya",
+    name: "Elias Mutuma",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
-    list: "38",
-    cover: "../images/customer/team-5.jpg",
-    address: "Montreal, USA",
-    name: "Adam K. Jollio",
+    list: "58",
+    address: "Malindi",
+    name: "Joseph Mwenda pole",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
 ]
