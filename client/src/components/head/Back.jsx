@@ -1,6 +1,7 @@
 import React from "react"
 import images from "../../images/about.png";
-// import About from "../about/About";
+
+
 const Back = ({ name, title }) => {
   return (
     <>
