@@ -25,7 +25,7 @@ const About = () => {
                         Our specialized team, which we employ, will give you all the information you need when buying or selling a property, and will guide you throughout the entire buying process. We employ a lawyer, an architect and licensed real estate agents with passed brokerage examinations, registered with the Ministry of Industrialization, Trade and Enterprise Development. Our team speaks English and Swahili, which is a great advantage in our day-to-day business as we work with clients and other companies from around the country.
                         </p>
                     </div>
-                    <div className="right row">
+                    <div className="right-row">
                         <img src={image} alt="" />
                     </div>
                 </div>
