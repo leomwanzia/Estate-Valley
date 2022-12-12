@@ -1,15 +1,15 @@
 import React from "react";
-import images from "../../images/about.png"
-import image from "../../images/family.png"
-import Back from "../head/Back";
-import Heading from "../head/Heading";
+import images from "../../../../images/about.png"
+import image from "../../../../images/family.png"
+import Back from "../../../head/Back";
+import Heading from "../../../head/Heading";
 import "./about.css"
 
 const About = () => {
     return (
         <>
             <section className="about">
-                <Back name='About Us' title='More About our Real Estate company' cover={images}/>
+                <Back name='About Us' title='More About our Real Estate company...' cover={images}/>
                 <div className="container flex mtop">
                     <div className="left row">
                         <Heading title="this is our story" subtitle="Read on how our Company works and the story that begun our Adventure."/>
